@@ -23,23 +23,19 @@
   2. 카메라 기능 적용
      
 ---------------
-
-## 👨‍💻 결과
-### 개발 환경
-  - colab 실험 환경
-    - virtual machine : Ubuntu 22.04.3 LTS
-    - GPU : Tesla T4 , Tesla V100-SXM2
-    - memory : 12Gi
-    - python version : Python 3.10.12
-  - requirements :
-    - omegaconf
-    - pandas
-    - torch
-    - datasets
-    - transformers
-    - accelerate
-    - mecab-python
-  - extra tool : notion , google meet , kakaotalk
-    
+## 서비스 흐름도
 ![image](https://github.com/Everglow-FaceMind/FaceMind/assets/100841549/6c3c073f-9e81-4c73-a36f-ba6c0ecff321)
 
+## 서비스 기능
+![화면 캡처 2024-06-28 110116](https://github.com/Everglow-FaceMind/FaceMind/assets/100841549/fe191ffc-985b-4940-a716-85642a0a3df7)
+
+----------------
+## 스트레스 & 심박 연관성
+- 스트레스 : 교감신경의 활성화로 나타나며 유해한 자극으로부터 항상성을 유지하기 위해 발생.
+- 자율신경계의 교감신경계가 과도하게 활성화되는 것이 특징.
+- 건강한 사람일수록 HRV 신호가 불규칙적이고 복잡하다.
+
+## 스트레스 기획 배경 
+![image](https://github.com/Everglow-FaceMind/FaceMind/assets/100841549/24aee001-d76b-4e44-8a7f-11d473f7253b)
+![image](https://github.com/Everglow-FaceMind/FaceMind/assets/100841549/b17f428c-c4a3-48ea-adbc-2de963a4c00e)
+![image](https://github.com/Everglow-FaceMind/FaceMind/assets/100841549/0c1d884d-01d9-4a45-a4d6-3d21fbfdede9)
