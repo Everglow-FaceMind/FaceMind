@@ -41,5 +41,5 @@
     - mecab-python
   - extra tool : notion , google meet , kakaotalk
     
+![image](https://github.com/Everglow-FaceMind/FaceMind/assets/100841549/6c3c073f-9e81-4c73-a36f-ba6c0ecff321)
 
-![Untitled](https://github.com/j8n17/PatentClassification/assets/100841549/e3473722-3bff-4653-b3fd-2af1f8fb1891)
