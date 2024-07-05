@@ -41,7 +41,9 @@ AI : 이원석
 - 자율신경계의 교감신경계가 과도하게 활성화되는 것이 특징.
 - 건강한 사람일수록 HRV 신호가 불규칙적이고 복잡하다.
 
+
 ## 스트레스 기획 배경 
+
 
 ### 스트레스 받는 인구
 ![image](https://github.com/Everglow-FaceMind/FaceMind/assets/100841549/24aee001-d76b-4e44-8a7f-11d473f7253b)
