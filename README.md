@@ -1,9 +1,15 @@
 # FaceMind - Everglow
-팀장 : 김현동
+팀장 : 김현동 
 
 팀원 : 이다은, 이원석, 조유리
 
 기간 : 2024.03 ~ 2024.06
+
+## 역할 분배
+PM : 김현동
+Frontend : 이다은
+Backend : 조유리
+AI : 이원석
 
 ### :european_post_office: 캡스톤 프로젝트
 - 주제 : 카메라를 활용한 심박수 측정 및 스트레스 지수 분석 (rPPG) 
@@ -36,6 +42,12 @@
 - 건강한 사람일수록 HRV 신호가 불규칙적이고 복잡하다.
 
 ## 스트레스 기획 배경 
+
+### 스트레스 받는 인구
 ![image](https://github.com/Everglow-FaceMind/FaceMind/assets/100841549/24aee001-d76b-4e44-8a7f-11d473f7253b)
+
+### 선호 대처 방법
 ![image](https://github.com/Everglow-FaceMind/FaceMind/assets/100841549/b17f428c-c4a3-48ea-adbc-2de963a4c00e)
+
+### 디지털 헬스케어에 대한 인식
 ![image](https://github.com/Everglow-FaceMind/FaceMind/assets/100841549/0c1d884d-01d9-4a45-a4d6-3d21fbfdede9)
